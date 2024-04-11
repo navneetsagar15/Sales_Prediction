@@ -23,6 +23,9 @@ matplotlib
 seaborn
 scikit-learn
 You can install them using pip install pandas numpy matplotlib seaborn scikit-learn.
+
+Make Changes according to the file path.
+
 Run the Jupyter Notebook:
 
 Open a terminal or command prompt and navigate to the directory containing this repository.
@@ -30,7 +33,7 @@ Run jupyter notebook to launch the Jupyter Notebook interface.
 Open SalesPrediction.ipynb and follow the instructions within for execution.
 Note:
 
-This README assumes the presence of test.csv and predictions.csv based on typical sales forecasting workflows.
+This README assumes the presence of test.csv and salesoutput.csv based on typical sales forecasting workflows.
 The actual file names might differ.
 Update the instructions accordingly if the file names are different.
 Further Exploration
